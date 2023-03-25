@@ -1,0 +1,10 @@
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\bin\Release\SEViewer.exe.config
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\bin\Release\SEViewer.exe
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\bin\Release\SEViewer.pdb
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.csproj.AssemblyReference.cache
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.Form1.resources
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.Properties.Resources.resources
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.csproj.GenerateResource.cache
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.csproj.CoreCompileInputs.cache
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.exe
+D:\TTTech\SEViewer_zip~\SEViewer\SEViewer\obj\Release\SEViewer.pdb
